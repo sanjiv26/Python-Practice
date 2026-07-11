@@ -19,6 +19,8 @@ higher-paying product company role.
 ## Contents So Far
 - `day1_basics.py` — variables, f-strings, loops, lists, 
    dictionaries, sorting with lambda, sets, bubble sort
+- `day2_error_handling.py` — try/except, TypeError, ZeroDivisionError, 
+   finally, retry loop for valid input
 
 ## What I Learned
 Nested data structures (lists of dicts, dicts inside dicts) 
