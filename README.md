@@ -21,6 +21,9 @@ higher-paying product company role.
    dictionaries, sorting with lambda, sets, bubble sort
 - `day2_error_handling.py` — try/except, TypeError, ZeroDivisionError, 
    finally, retry loop for valid input
+- `day3_file_handling.py` — reading/writing/appending files, 
+   str splitting, max() with lambda, FileNotFoundError handling
+- `students.txt` — sample data file used in Day 3
 
 ## What I Learned
 Nested data structures (lists of dicts, dicts inside dicts) 
