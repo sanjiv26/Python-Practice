@@ -1,0 +1,13 @@
+{
+    "name": "Sanjiv",
+    "role": "Senior Python Automation Engineer",
+    "skills": [
+        "Python",
+        "Pytest",
+        "Selenium",
+        "Docker"
+    ],
+    "experience_years": 4,
+    "fav_sport": "Cricket",
+    "available": true
+}

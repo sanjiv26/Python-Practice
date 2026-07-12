@@ -24,6 +24,9 @@ higher-paying product company role.
 - `day3_file_handling.py` — reading/writing/appending files, 
    str splitting, max() with lambda, FileNotFoundError handling
 - `students.txt` — sample data file used in Day 3
+- `day4_json.py` — json.load/dump, json.loads/dumps, 
+   read/write JSON files, update keys, parse simulated API response
+- `profile.json` — sample JSON file created by Day 4 script
 
 ## What I Learned
 Nested data structures (lists of dicts, dicts inside dicts) 
