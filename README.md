@@ -27,6 +27,8 @@ higher-paying product company role.
 - `day4_json.py` — json.load/dump, json.loads/dumps, 
    read/write JSON files, update keys, parse simulated API response
 - `profile.json` — sample JSON file created by Day 4 script
+- `day5_oop.py` — classes, __init__, self, methods, 
+   inheritance, super(), base and child classes
 
 ## What I Learned
 Nested data structures (lists of dicts, dicts inside dicts) 
