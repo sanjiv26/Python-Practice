@@ -29,6 +29,12 @@ higher-paying product company role.
 - `profile.json` — sample JSON file created by Day 4 script
 - `day5_oop.py` — classes, __init__, self, methods, 
    inheritance, super(), base and child classes
+- `interview_prep.py` — duplicates, dept filtering, grouping, 
+   frequency problems, remove dupes preserving order
+- `type_conversion.py` — int/float/str/bool/set conversions, 
+   gotchas, list comprehensions
+- `string_methods.py` — strip/split/join/find/format, 
+   CSV parsing, f-string formatting
 
 ## What I Learned
 Nested data structures (lists of dicts, dicts inside dicts) 
